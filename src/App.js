@@ -18,6 +18,7 @@ function App() {
         >
           Learn React
         </a>
+        <p>This app runs in Docker container with Docker Compose</p>
       </header>
     </div>
   );
